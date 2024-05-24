@@ -9,6 +9,6 @@ services:
       context: .
     # image: alikhil/tic-tac-toe-telegram-bot:0.1
     environment:
-      TOKEN: <YOUR_TELEGRAM_BOT_TOKEN>
+      TOKEN: 6434552541:AAHHsBwv3-71SSQ_i0aGerczw29XrnBDmno
   
     restart: on-failure
